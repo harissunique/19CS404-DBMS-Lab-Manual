@@ -1,4 +1,4 @@
-# Experiment 10: PL/SQL – Triggers
+[# Experiment 10: PL/SQL – Triggers
 
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
@@ -75,3 +75,5 @@ END;
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+](https://github.com/c-sanjay/19CS404-DBMS-Lab-Manual/blob/main/Experiment1_ER_Diagram/ex1%20er%20diagram.md
+)
